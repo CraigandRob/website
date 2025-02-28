@@ -148,32 +148,34 @@ disqusShortname = ""
     threads = "mattstratton"
 
   [params.authors]
-    [params.authors.Matt]
-      name	= "Matt Stratton"
+    [params.authors.Craig]
+      name	= "Craig Porteous"
       thumbnail = "img/host/matt.png"
-      bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
+      bio = "Data Platform MVP | Associate Head of Data Engineering @ Advancing Analytics| DATA:Scotland event founder | He/Him."
+      [params.authors.Craig.social]
+        github = ""
+        facebook = ""
+        twitter = ""
+        linkedin = ""
+        homepage = ""
+        pinterest = ""
+        instagram = ""
+        youtube = ""
+        twitch = ""
+    [params.authors.Rob]
+      name	= "Rob Sewell"
+      thumbnail = "img/host/matt.png"
+      bio = "Rob was a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). Now he just helps people make things. He is a Data Platform MVP and an Azure MVP, a PowerShell Conference Europe organiser, and maintainer of many open-source projects. He has spoken at and volunteered at many Data and PowerShell events all over the world. He is a proud supporter of the Data and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, he is often out riding his bike as his eyes are not good enough to play cricket any more. He has a fabulous beard"
       [params.authors.Matt.social]
-        github = "mattstratton"
-        facebook = "matt.stratton"
-        twitter = "mattstratton"
-        linkedin = "mattstratton"
-        homepage = "https://www.mattstratton.io"
-        pinterest = "mattstratton"
-        instagram = "instagram"
-        youtube = "mattstratton"
-        twitch = "mattstratton"
-    [params.authors.Trevor]
-			name = "Trevor Hess"
-			thumbnail = "img/host/trevor.jpg"
-			bio = ""
-				[params.authors.Trevor.social]
-					twitter = "trevorghess"
-    [params.authors.Bridget]
-      name = "Bridget Kromhout"
-      thumbnail = "img/host/bridget.jpg"
-      bio = ""
-      [params.authors.Bridget.social]
-        twitter = "bridgetkromhout"
+        github = "SQLDbaWithABeard"
+        facebook = ""
+        twitter = ""
+        linkedin = "robmsewell"
+        homepage = "https://robsewell.com"
+        pinterest = ""
+        instagram = ""
+        youtube = ""
+        twitch = ""
 
     [params.links]
       [params.links.ado]
