@@ -146,7 +146,7 @@ disqusShortname = ""
   [params.authors]
     [params.authors.Craig]
       name	= "Craig Porteous"
-      thumbnail = "img/host/craig.jpg"
+      thumbnail = "img/craig.jpg"
       bio = "Data Platform MVP | Associate Head of Data Engineering @ Advancing Analytics| DATA:Scotland event founder | He/Him."
       [params.authors.Craig.social]
         github = ""
