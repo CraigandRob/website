@@ -131,21 +131,17 @@ disqusShortname = ""
   # Social links can be given in full URL form or short form
   # In the short form the theme will generate a relevant URL
   [params.social]
-    github = "arresteddevops"
-    gitlab = "mattstratton"
-    facebook = "Arresteddevops"
-    facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
+    github = "craigandrob"
     twitter = "https://twitter.com/arresteddevops"
-    twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    pinterest = "nozzleio"
-    instagram = "nozzleio"
-    youtube = "arresteddevops"
+    pinterest = ""
+    instagram = ""
+    youtube = ""
     # Short form in linkedin will link to a user's page so use long form for company pages
     linkedin = "https://www.linkedin.com/company/linkedin/"
     #linkedin = "mattstratton"
-    twitch = "mattstratton"
+    twitch = ""
     mastodon = "https://hachyderm.io/@mattstratton"
-    threads = "mattstratton"
+    threads = ""
 
   [params.authors]
     [params.authors.Craig]
