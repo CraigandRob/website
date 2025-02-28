@@ -1,6 +1,6 @@
 baseurl = "https://techtales.fail/"
 languageCode = "en-us"
-title = "Tech Tales and Failes"
+title = "Tech Tales and Fails"
 theme = "castanet"
 themesdir = "./themes"
 pagination.pagerSize = "9"
