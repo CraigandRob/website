@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Tech Tales and Failes"
 theme = "castanet"
 googleAnalytics = ""
-themesdir = "../.."
+themesdir = "./themes"
 pagination.pagerSize = "9"
 buildFuture = true
 
