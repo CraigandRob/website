@@ -83,22 +83,22 @@ enable_jumbo = "true"
 disable_title_caps = "true"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
-copyright_notice = "Copyright 2025 [Matt Stratton](https://www.mattstrattion.io)"
-youtube_subscribe = "https://www.youtube.com/arresteddevops?sub_confirmation=1"
-itunes_subscribe = "https://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
-android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
-spotify_subscribe = "https://open.spotify.com/show/..."
-google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYXJyZXN0ZWRkZXZvcHMuY29tL2VwaXNvZGUvaW5kZXgueG1s"
-stitcher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
+copyright_notice = "Copyright 2025 [Rob and Craig]"
+youtube_subscribe = "https://www.youtube.com/"
+itunes_subscribe = "https://podcasts.apple.com/us/podcast/"
+android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/"
+spotify_subscribe = "https://open.spotify.com/show/"
+google_play_subscribe = "https://podcasts.google.com/feed/"
+stitcher_subscribe = "http://www.stitcher.com/podcast/"
 soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 # rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Welcome to Tech tales and fails —the show where data disasters, tech blunders, and good old-fashioned oops moments take center stage! "
+description = "Welcome to Tech Tales and Fails — the show where data disasters, tech blunders, and good old-fashioned oops moments take center stage! "
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
 disqusShortname = ""
   [params.feed]
-    copyright = "Copyright 2020 Matt Stratton" #do not use markdown in this field; it is used in the feed
+    copyright = "Copyright 2025 Rob Sewell Craig Porteous" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The best podcast ever" #no markdown or HTML
     itunes_author = "Matt Stratton" #no markdown or HTML
     itunes_summary = "Welcome to Tech tales and fails —the show where data disasters, tech blunders, and good old-fashioned oops moments take center stage! Each episode, we sit down with folks from the data and tech world to hear about the times things didn’t quite go as planned. From accidental table drops to queries that brought down entire systems, we’re diving into the mistakes that made us sweat—but also taught us something valuable along the way.Because let’s be real—everyone messes up. The important thing is what we learn from it.So, grab a coffee, take a deep breath, and listen to us talk about tech tales and fails with the most inspiring experts to ever show up on the whole internet." # Limited to 4000 characters or less, plain text, no HTML

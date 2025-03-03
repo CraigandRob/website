@@ -3,8 +3,6 @@ title: "Join In"
 date: 2025-03-03T15:51:21-00:00
 +++
 
-# Join In
-
 There are two ways to join in with the podcast. You can either be a guest or submit an anonymous story.
 
 Remember that this is a light-hearted podcast and we are looking for funny, embarrassing, or just plain silly stories that also have a lesson to teach or to show newcomers that even the experts screw up!
