@@ -1,6 +1,6 @@
 +++
-title: "Join In"
-date: 2025-03-03T15:51:21-00:00
+title = "Join In"
+date = 2025-03-03T15:51:21-00:00
 +++
 
 There are two ways to join in with the podcast. You can either be a guest or submit an anonymous story.
