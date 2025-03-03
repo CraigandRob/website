@@ -132,16 +132,16 @@ disqusShortname = ""
   # In the short form the theme will generate a relevant URL
   [params.social]
     github = "craigandrob"
-    twitter = "https://twitter.com/arresteddevops"
-    pinterest = ""
+    # twitter = "https://twitter.com/arresteddevops"
+    # pinterest = ""
     instagram = ""
     youtube = ""
     # Short form in linkedin will link to a user's page so use long form for company pages
     linkedin = "https://www.linkedin.com/company/linkedin/"
     #linkedin = "mattstratton"
-    twitch = ""
-    mastodon = "https://hachyderm.io/@mattstratton"
-    threads = ""
+    # twitch = ""
+    # mastodon = "https://hachyderm.io/@mattstratton"
+    # threads = ""
 
   [params.authors]
     [params.authors.Craig]
