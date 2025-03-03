@@ -1,8 +1,7 @@
----
++++
 title: "Join In"
 date: 2025-03-03T15:51:21-00:00
-draft: false
----
++++
 
 # Join In
 
