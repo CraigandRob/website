@@ -14,3 +14,4 @@ Instagram = ""
 YouTube = ""
 Twitch = ""
 +++
+Craig brings data and automation together. He loves to learn and share what he learns with the technical community. He enjoys running and lives for his family. He/Him
