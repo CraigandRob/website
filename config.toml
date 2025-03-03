@@ -26,9 +26,9 @@ buildFuture = true
     url = "/about"
 
 [[Menu.Main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "/contact"
+    name = "Join In"
+    identifier = "joinin"
+    url = "/joinin"
 
 [[Menu.Main]]
     name = "Hosts"
