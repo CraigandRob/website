@@ -5,7 +5,6 @@ theme = "castanet"
 themesdir = "./themes"
 pagination.pagerSize = "9"
 buildFuture = true
-favicon="/img/favicon.ico"
 
 [taxonomies]
   category = "categories"
@@ -83,7 +82,7 @@ enable_jumbo = "true"
 # enable_jumbo = "false"
 disable_title_caps = "true"
 # truncate = "100"
-# about_logo = "/img/hugocast.png"
+about_logo = "img/logo_250x250.jpg"
 copyright_notice = "Copyright 2025 [Rob and Craig]"
 youtube_subscribe = "https://www.youtube.com/"
 itunes_subscribe = "https://podcasts.apple.com/us/podcast/"
