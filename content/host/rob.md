@@ -11,7 +11,7 @@ GitHub = "SQLDbAWithABeard"
 Thumbnail = "/img/rob.jpg"
 Pinterest = ""
 Instagram = ""
-YouTube = "RobSewell"
+YouTube = "@RobSewell"
 Twitch = ""
 +++
 Rob was a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). Now he just helps people make things. He is a Data Platform MVP and an Azure MVP, a PowerShell Conference Europe organiser, and maintainer of many open-source projects. He has spoken at and volunteered at many Data and PowerShell events all over the world. He is a proud supporter of the Data and PowerShell communities.
