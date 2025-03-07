@@ -5,6 +5,7 @@ theme = "castanet"
 themesdir = "./themes"
 pagination.pagerSize = "9"
 buildFuture = true
+favicon="favicon.ico"
 
 [taxonomies]
   category = "categories"
