@@ -8,8 +8,8 @@ on:
     workflow_dispatch:
 
     # Daily publish at 07:00Z to allow for scheduled posts
-    schedule:
-      - cron: '0 7 * * *'
+ #   schedule:
+ #     - cron: '0 7 * * *'
 
 jobs:
     build:
